@@ -3,7 +3,7 @@ title: "PARCEP Test"
 abbrev: "PARCEP"
 category: info
 
-docname: draft-PARCEP-test-latest
+docname: draft-parcep-test-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -20,8 +20,8 @@ venue:
 #  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
-  github: "Andrew-419/draft-PARCEP-test"
-  latest: "https://Andrew-419.github.io/draft-PARCEP-test/draft-PARCEP-test.html"
+  github: "Andrew-419/draft-parcep-test"
+  latest: "https://Andrew-419.github.io/draft-parcep-test/draft-parcep-test.html"
 
 author:
  -
