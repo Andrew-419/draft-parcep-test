@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "TODO - PARCEP Test"
+abbrev: "TODO - PARCEP"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-PARCEP-test-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,13 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Andrew Campling
+    organization: 419 Consulting
+    email: Andrew.Campling@419.Consulting
+ -
+    fullname: Andrew Campling
+    organization: PARCEP Foundation
+    email: Andrew.Campling@Yahoo.Com
 
 normative:
 
