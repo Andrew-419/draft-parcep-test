@@ -1,6 +1,6 @@
 ---
-title: "TODO - PARCEP Test"
-abbrev: "TODO - PARCEP"
+title: "PARCEP Test"
+abbrev: "PARCEP"
 category: info
 
 docname: draft-PARCEP-test-latest
