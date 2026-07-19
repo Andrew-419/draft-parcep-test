@@ -2,14 +2,14 @@
 
 
 
-WG Working Group                                             A. Campling
+Network Working Group                                        A. Campling
 Internet-Draft                                            419 Consulting
 Intended status: Informational                               A. Campling
 Expires: 20 January 2027                               PARCEP Foundation
                                                             19 July 2026
 
 
-                           TODO - PARCEP Test
+                              PARCEP Test
                         draft-PARCEP-test-latest
 
 Abstract
@@ -20,16 +20,13 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-PARCEP-test/.
-
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   The latest revision of this draft can be found at https://Andrew-
+   419.github.io/draft-PARCEP-test/draft-PARCEP-test.html.  Status
+   information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-PARCEP-test/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/Andrew-419/draft-PARCEP-test.
 
 Status of This Memo
 
