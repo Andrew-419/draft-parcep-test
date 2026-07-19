@@ -10,7 +10,7 @@ Expires: 20 January 2027                               PARCEP Foundation
 
 
                               PARCEP Test
-                        draft-PARCEP-test-latest
+                        draft-parcep-test-latest
 
 Abstract
 
@@ -21,12 +21,12 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at https://Andrew-
-   419.github.io/draft-PARCEP-test/draft-PARCEP-test.html.  Status
+   419.github.io/draft-parcep-test/draft-parcep-test.html.  Status
    information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-PARCEP-test/.
+   https://datatracker.ietf.org/doc/draft-parcep-test/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/Andrew-419/draft-PARCEP-test.
+   https://github.com/Andrew-419/draft-parcep-test.
 
 Status of This Memo
 
